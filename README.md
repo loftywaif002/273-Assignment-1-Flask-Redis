@@ -37,7 +37,7 @@ http://localhost:8000/api/v1/scripts/<script_id>
 #Screenshots <br />
 
 <img src="http://i67.tinypic.com/ogfkap.png" height="400" width="800">
-<img src="http://i67.tinypic.com/jq2c6q.png" height="300" width="500">
+<img src="http://i67.tinypic.com/jq2c6q.png" height="250" width="500">
 <img src="http://i66.tinypic.com/mjy0qa.png" height="300" width="650">
 <img src="http://i64.tinypic.com/2jcwubr.png" height="300" width="650">
 <img src="http://i63.tinypic.com/2a79yxv.png" height="300" width="650">
