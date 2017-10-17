@@ -4,7 +4,7 @@
 
 #Technology Used
 
-<img src="http://i65.tinypic.com/2zp1hr9.png" height="120" width="120" hspace="20" > <img src="http://i67.tinypic.com/2yv6i9v.png" height="200" width="200" hspace="20"> <img src="http://i65.tinypic.com/fn4uow.png" height="100" width="150" hspace="20">
+<img src="http://i65.tinypic.com/2zp1hr9.png" height="120" width="120" hspace="20" > <img src="http://i67.tinypic.com/2yv6i9v.png" height="160" width="200" hspace="20"> <img src="http://i65.tinypic.com/fn4uow.png" height="100" width="150" hspace="20">
 
 #Requirements to Run This Project
 python version 3.6.2
