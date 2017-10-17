@@ -1,10 +1,10 @@
 <p align="center">
-  <h2 align="center">Team Hackathon GroupName: Amazonians</h2>
+  <h2 align="center">Enterprise Distributed Systems 273-Assignment-1</h2>
 </p>
 
 #Technology Used
 
-<img src="http://i65.tinypic.com/2zp1hr9.png" height="70" width="75" hspace="20" > <img src="http://i65.tinypic.com/11iof9l.png" height="78" width="70" hspace="20"> <img src="http://i65.tinypic.com/fn4uow.png" height="70" width="75" hspace="20">
+<img src="http://i65.tinypic.com/2zp1hr9.png" height="80" width="80" hspace="20" > <img src="http://i65.tinypic.com/11iof9l.png" height="100" width="100" hspace="20"> <img src="http://i65.tinypic.com/fn4uow.png" height="80" width="80" hspace="20">
 
 #Requirements to Run This Project
 python version 3.6.2
@@ -36,8 +36,8 @@ http://localhost:8000/api/v1/scripts/<script_id>
 ```
 #Screenshots <br />
 
-<img src="http://i67.tinypic.com/ogfkap.png" height="400" width="400">
-<img src="http://i67.tinypic.com/jq2c6q.png" height="200" width="250">
-<img src="http://i66.tinypic.com/mjy0qa.png" height="200" width="250">
-<img src="http://i64.tinypic.com/2jcwubr.png" height="200" width="250">
-<img src="http://i63.tinypic.com/2a79yxv.png" height="200" width="250">
+<img src="http://i67.tinypic.com/ogfkap.png" height="400" width="600">
+<img src="http://i67.tinypic.com/jq2c6q.png" height="300" width="350">
+<img src="http://i66.tinypic.com/mjy0qa.png" height="300" width="350">
+<img src="http://i64.tinypic.com/2jcwubr.png" height="300" width="350">
+<img src="http://i63.tinypic.com/2a79yxv.png" height="300" width="350">
